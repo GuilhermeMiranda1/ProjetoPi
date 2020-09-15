@@ -52,5 +52,7 @@ insert into administradores values (202019, 'Samuel Almeida', 'samuelalmeida@Out
 								  (202001, 'Ju Souza', 'jusouza1234a@gmail.com', '@souzaPI'),
                                   (202005, 'Caio Elcio', 'caioelcio@hotmail.com', 'silo@335'),
                                   (202006, 'Gabriel Wesley', 'gabrielwesley2020@gmail.com', '@7654321GW');
-                           
+
+
+-- comandos da tabela usuário
                            
