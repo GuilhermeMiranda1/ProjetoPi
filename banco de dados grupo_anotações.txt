@@ -17,3 +17,13 @@ timestamp captura a data e a hora da inserção do dado.
 references, referencia a outra tabela 'puxa os dados da outra tabela'
 
 caso apagar, segue a ordem da referencia, no caso, apagar primeiro usuario e depois o admin.
+
+
+
+
+for é um contador, vc precisa indicar a variavel que precisa ser contada
+voce precisa determinar um limite
+criou a parcela 1
+; então ++ (soma) na parcela
+
+soma até o numero 12
