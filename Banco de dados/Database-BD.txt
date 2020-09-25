@@ -1,7 +1,7 @@
-create database Silo_armazem;
+create database Seve_Solutions;
 
 
-use Silo_armazem;
+use Seven_Solutions;
 
 
 -- Criando as tabelas
